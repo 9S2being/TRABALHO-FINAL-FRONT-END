@@ -67,8 +67,7 @@ main {
  }
 
 span {
-    color: black;
-    
+    color: black; 
 }
 
 .nome {
@@ -81,8 +80,6 @@ span {
     font-family:'Times New Roman';
     margin-bottom: 20px;
     color: #148827;
-
-
 }
 
 a:link {
@@ -102,8 +99,12 @@ a:link {
     border-radius: 20px;
     border-width: 3px;
     width: 110px;
-    background-color: orangered;
-    
+    background-color: orangered;   
+}
+
+#sobre:hover {
+    color: rgba(82, 238, 76, 0.788);
+    opacity: 0,7;
 }
 
 #conhecimento {
