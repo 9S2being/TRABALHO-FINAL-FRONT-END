@@ -164,7 +164,9 @@ a:link {
     top: 210px;
     font-size: 35px;
     justify-content: center;
-    bottom: 400px ;
+    bottom: 400px;
+    color: #148827;
+    font-weight: 600;
 }
 
  .conhecimento-3 {
