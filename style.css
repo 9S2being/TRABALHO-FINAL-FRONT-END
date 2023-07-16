@@ -137,7 +137,9 @@ a:link {
     left: 760px;
     font-size: 35px;
     justify-content: center;
-    bottom: 360px ;
+    bottom: 350px;
+    color: #148827;
+    font-weight: 600;
 }
 
 .objetivo-3{
