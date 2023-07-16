@@ -134,7 +134,11 @@ a:link {
     border-width: 3px;
     width: 170px;
     background-color: rgb(255, 68, 0);
-    
+}
+
+#objetivo:hover {
+    color: rgba(82, 238, 76, 0.788);
+    opacity: 0,7;
 }
 
 .objetivo-2 {
